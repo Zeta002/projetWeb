@@ -21,7 +21,8 @@ html {
  */
 
 body {
-  margin: 0;
+  margin: 1rem;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 /**
@@ -29,7 +30,7 @@ body {
  */
 
 main {
-  display: block;
+  display: flex;
 }
 
 /**
@@ -85,7 +86,6 @@ a {
 abbr[title] {
   border-bottom: none; /* 1 */
   text-decoration: underline; /* 2 */
-  text-decoration: underline dotted; /* 2 */
 }
 
 /**
