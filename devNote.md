@@ -2,4 +2,4 @@
 ---
 ## Liens utiles
 
-* [Can I use ?](http://www.caniuse.com/) : sert à connâitre la compatibilité sur les différents navigateurs d'une fonctionnalité en HTML / CSS
+* [Can I use ?](http://www.caniuse.com/) : sert à connâitre la **compatibilité** sur les différents navigateurs d'une fonctionnalité en HTML / CSS
