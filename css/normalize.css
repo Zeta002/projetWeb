@@ -33,6 +33,10 @@ main {
   display: flex;
 }
 
+* {
+  border: solid red 1px;
+}
+
 /**
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
@@ -41,6 +45,17 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+}
+
+article {
+  background-color: lightslategrey;
+  border-radius: 1rem;
+  padding: 0.1rem 0.1rem 0.1rem 0.6rem;
+}
+
+#ZeldaTOTK:hover {
+  font-family: "Comic Sans MS", system-ui;
+  padding: 0.1em 0;
 }
 
 /* Grouping content
